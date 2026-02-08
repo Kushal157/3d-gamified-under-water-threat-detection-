@@ -1,2 +1,2 @@
-https://github.com/Kushal157/kai-mental-wellness.git
+https://cloth-bacon-51912903.figma.site/check
 for viewing the simulation
